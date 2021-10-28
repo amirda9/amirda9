@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirda9
-- 👀 I’m interested in NLP and sentiment analysis
-- 🌱 I’m currently learning Graph Embedding
+- 👀 I’m interested in Machine Learning Theory and Algorithms
+- 🌱 I’m currently Working on "Designing Cognitive Attention Network"
 - 📫 How to reach me Amirnaeeni83@gmail.com
 
 <!---
