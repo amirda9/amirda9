@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirda9
 - 👀 I’m interested in Machine Learning Theory and Algorithms
-- 🌱 I’m currently Working on "Designing Cognitive Attention Network"
+- 🌱 I’m currently Working on "Machine Learning Security"
 - 📫 How to reach me Amirnaeeni83@gmail.com
 
 <!---
